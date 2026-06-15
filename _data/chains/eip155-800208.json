@@ -1,0 +1,13 @@
+{
+  "name": "AERX Chain",
+  "chain": "AERX",
+  "rpc": ["https://rpc.aerxid.com"],
+  "faucets": [],
+  "nativeCurrency": {"name": "AERX", "symbol": "ARX", "decimals": 18},
+  "infoURL": "https://aerxid.com",
+  "shortName": "aerx",
+  "chainId": 800208,
+  "networkId": 800208,
+  "slip44": 1,
+  "explorers": [{"name": "AERX Chain Explorer", "url": "https://scan.aerxid.com", "standard": "EIP3091"}]
+}
